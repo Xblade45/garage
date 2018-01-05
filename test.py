@@ -1,5 +1,5 @@
 import pprint
 import math
 
-pprint math.pi
+pprint.pprint(math.pi)
 
